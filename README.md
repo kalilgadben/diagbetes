@@ -1,4 +1,4 @@
-# 🏥 DiagBetes - Sistema de Diagnóstico de Diabetes - Machine Learning
+# 🏥 DiagBetes - Sistema de Diagnóstico de Diabetes
 
 ## 📋 Descrição do Projeto
 
@@ -54,4 +54,4 @@ Para dúvidas ou sugestões:
 - GitHub: https://github.com/kalilgadben/
 
 
-**⚠️ DISCLAIMER**: Este sistema é uma ferramenta educacional e de apoio à decisão. Não deve ser utilizado como substituto ao julgamento clínico profissional. Sempre consulte um médico qualificado para diagnóstico e tratamento de diabetes.
+**⚠️ ISENÇÃO DE RESPONSABILIDADE**: Este sistema é uma ferramenta educacional e de apoio à decisão. Não deve ser utilizado como substituto ao julgamento clínico profissional. Sempre consulte um médico qualificado para diagnóstico e tratamento de diabetes.
