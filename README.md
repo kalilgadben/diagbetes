@@ -8,7 +8,7 @@ Sistema inteligente de suporte ao diagnóstico de diabetes desenvolvido como par
 
 ## 🎯 Objetivo
 
-Desenvolver um modelo de classificação binária capaz de prever se um paciente tem diabetes (Outcome = 1) ou não (Outcome = 0) com base em dados clínicos.
+Desenvolver um modelo de classificação binária capaz de prever se um paciente tem diabetes (Diabetes = 1) ou não (Diabetes = 0) com base em dados clínicos.
 
 ## 📊 Dataset
 
@@ -27,7 +27,7 @@ Desenvolver um modelo de classificação binária capaz de prever se um paciente
 | SkinThickness | Espessura da dobra cutânea tricipital (mm) |
 | Insulin | Insulina sérica de 2 horas (mu U/ml) |
 | BMI | Índice de massa corporal (peso em kg/(altura em m)²) |
-| DiabetesPedigreeFunction | Diagnóstico da função do diabetes |
+| DiabetesPedigreeFunction | Pré-disposição Genética |
 | Age | Idade (anos) |
 
 ## 🚀 Tecnologias Utilizadas
