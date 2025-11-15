@@ -42,6 +42,11 @@ Desenvolver um modelo de classificação binária capaz de prever se um paciente
 ## 👥 Autor
 
 Kalil Gadben de Souza
+Pós Tech - 7IADT - Grupo 113
+
+## 🎥 Apresentação
+
+https://youtu.be/xAX7XaGqEUc
 
 ## 📝 Licença
 
